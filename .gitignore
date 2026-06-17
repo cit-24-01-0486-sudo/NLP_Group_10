@@ -225,3 +225,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.env
 venv/
+data/Fake.csv
+data/True.csv
+data/merged.csv
