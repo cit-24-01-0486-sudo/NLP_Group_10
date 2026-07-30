@@ -226,3 +226,5 @@ __pycache__/
 *.env
 venv/
 data/*.csv
+
+*.pt
