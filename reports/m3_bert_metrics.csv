@@ -1,0 +1,2 @@
+model,member,epochs,accuracy,precision,recall,f1,roc_auc
+DistilBERT,M3,3,1.0,1.0,1.0,1.0,1.0

@@ -228,3 +228,5 @@ venv/
 data/*.csv
 
 *.pt
+
+models/m3_bert_model/
