@@ -228,3 +228,5 @@ venv/
 data/Fake.csv
 data/True.csv
 data/merged.csv
+!models/m1_lr_model.pkl
+!models/m1_tfidf_vectorizer.pkl
