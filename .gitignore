@@ -225,3 +225,12 @@ __pycache__/
 .ipynb_checkpoints/
 *.env
 venv/
+data/*.csv
+
+*.pt
+
+models/m3_bert_model/
+
+bert_checkpoints/
+cloudflared
+streamlit_log.txt
